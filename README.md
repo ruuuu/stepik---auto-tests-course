@@ -1,1 +1,1 @@
-# stepik---auto-tests-course
+# mystepik---auto-tests-course
